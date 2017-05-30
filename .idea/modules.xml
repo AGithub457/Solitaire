@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Solitaire.iml" filepath="$PROJECT_DIR$/.idea/modules/Solitaire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Solitaire_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Solitaire_main.iml" group="Solitaire" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Solitaire_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Solitaire_test.iml" group="Solitaire" />
     </modules>
   </component>
 </project>
